@@ -1,0 +1,5 @@
+"#","RefDes","Value","Name","Part","Pattern","Quantity"
+"1","C1","10uF","CAP_0603","JMK107ABJ106MAHT","CAP_0603","1"
+"2","R1","10k","RES_0603","ERJ-3EKF1002V","RES_0603","1"
+"3","U1","","PCA9685PWmodule","Part 1","2.54PCBModuleTSSOP-28","1"
+"4","U2","","PCA9685PW","PCA9685PW/Q900,118","TSSOP-28","1"
