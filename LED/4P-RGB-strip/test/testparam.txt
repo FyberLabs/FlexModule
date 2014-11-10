@@ -1,0 +1,1 @@
+JST XH 4 pin connector on wire, directly attach each pin of cable to GPIO of tester.  Probably use XH 4 pin.

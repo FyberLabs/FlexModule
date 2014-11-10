@@ -1,0 +1,1 @@
+Light up 2 EL components.  Place photo diodes directly under connected to tester GPIO.

@@ -1,0 +1,1 @@
+Test with LRA device and visual/audio inspection.  Otherwise we need to measure PWM output.

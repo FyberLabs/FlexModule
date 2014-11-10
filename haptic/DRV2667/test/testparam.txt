@@ -1,0 +1,1 @@
+Attach output to haptic fan for visual inspection or similar to EL tape or absorb in circuit to test AC 120-150vpp or similar frequency test.

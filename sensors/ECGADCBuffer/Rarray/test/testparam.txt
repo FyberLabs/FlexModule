@@ -1,0 +1,2 @@
+Utilize a +-3.3V bipolar power supply and vary a 4 channel digipot and verify 
+that wide voltage swing comes in to ADC correctly for 4 channels.

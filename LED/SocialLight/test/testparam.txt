@@ -1,0 +1,1 @@
+Visual inspection, otherwise need special harness with mask and photodiode covering module.

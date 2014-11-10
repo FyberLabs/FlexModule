@@ -1,0 +1,1 @@
+Test VBAT output and OTG output.  Qi charging also needs verified.

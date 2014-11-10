@@ -1,0 +1,1 @@
+Test 3.3V output with a USB negotiation.  Test also VBAT input produces 3.3V as well.

@@ -1,0 +1,1 @@
+integrate speaker from pins and test with microphone a specific 2 tones.  Possibly utilize a whistled.

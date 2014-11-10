@@ -1,0 +1,1 @@
+Program on SWD exposed points and then test blink GPIO and BLE negotiation.

@@ -1,0 +1,2 @@
+Set BOOT parameter and program by SPI.  Then reboot and verify simple LED/GPIO toggle.
+Should also test USB OTG clock generation with a device negotiation.

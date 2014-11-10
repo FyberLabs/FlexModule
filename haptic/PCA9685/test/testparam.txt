@@ -1,0 +1,1 @@
+Visual test all 16 channels with LED or massive GPIO.
