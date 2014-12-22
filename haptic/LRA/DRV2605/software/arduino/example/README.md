@@ -1,0 +1,2 @@
+Originally provided by Precision Microdrives at [http://www.precisionmicrodrives.com/haptics-haptic-feedback-vibration-alerting/haptic-feedback-evaluation-kit/documents-and-resources](http://www.precisionmicrodrives.com/haptics-haptic-feedback-vibration-alerting/haptic-feedback-evaluation-kit/documents-and-resources) for use with their Haptic Feedback Evaluation Kit.  
+Fyber Labs has modified the DevelopmentMode.ino as example.ino to only have required libraries for the DRV2605(L).
