@@ -2,3 +2,5 @@ tmp
 *~
 Archive.zip
 *.zip
+*.raw
+*.log

@@ -29,33 +29,26 @@ Starting source stepping with srcstepmethod=0
 Source Step = 3.0303%
 Source Step = 33.3333%
 Source Step = 63.6364%
-Source Step = 86.3636%
-Source Step = 88.0682%
-Source Step = 89.9621%
-Source Step = 91.8561%
-Source Step = 93.75%
-Source Step = 95.6439%
-vernier = 0.09375
-Source Step = 98.2955%
+Source Step = 93.9394%
 Source stepping succeeded in finding the operating point.
 
 
-Date: Mon Jan 05 01:58:16 2015
-Total elapsed time: 60.015 seconds.
+Date: Mon Jan 05 22:18:35 2015
+Total elapsed time: 5.709 seconds.
 
 tnom = 27
 temp = 27
 method = modified trap
-totiter = 3552460
-traniter = 3550182
-tranpoints = 1225066
-accept = 825019
-rejected = 400047
+totiter = 242738
+traniter = 240931
+tranpoints = 60721
+accept = 42938
+rejected = 17783
 matrix size = 106
-fillins = 108
+fillins = 129
 solver = Normal
-Thread vector: 20.9/12.9[2] 2.6/2.2[2] 2.7/1.7[2] 0.7/2.8[1]  2592/500
-Matrix Compiler1: 9.47 KB object code size  2.2/1.1/[0.8]
-Matrix Compiler2: 9.05 KB object code size  3.0/2.0/[0.8]
+Thread vector: 34.6/14.7[2] 3.1/2.7[2] 13.0/8.9[2] 0.9/1.4[1]  2592/500
+Matrix Compiler1: 11.0 KB object code size  2.9/1.4/[0.9]
+Matrix Compiler2: 9.44 KB object code size  2.5/2.1/[1.4]
 
 
