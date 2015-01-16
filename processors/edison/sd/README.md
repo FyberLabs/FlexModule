@@ -10,4 +10,4 @@ Should fit in same layout as the STM32 large.
 This is the hardware design repository for an Edison+SD Flex Module from Fyber Labs.  It will need 3v3 support
 for buses and GPIO as well as USB OTG routing.  With a raised connector, components should easily fit under
 the Edison.  Might as well as a SDmicro as well and fully use up the space.  Need to research console or
-similar solution.
+similar solution through another USB device.  Buttons for reset, firmware recovery.
