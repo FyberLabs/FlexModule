@@ -14,7 +14,7 @@ similar solution through another USB device.  Buttons for reset, firmware recove
 
 2x counter sunk screws, spacers (check clearance 8 wide castellation)
 4xTXS0108E in DSBGA
-DF40HC(3.0)-70DS-0.4V(51) (clearance again)
+DF40HC(3.0)-70DS-0.4V(51) (castellation clearance again)
 5040771891 + TXS0206-29
-MCP2200T-I/MQ + ??
+MCP2200T-I/MQ + mini USB B (no castellations and may need more height clearance)
 
