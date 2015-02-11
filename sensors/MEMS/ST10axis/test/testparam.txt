@@ -1,2 +1,0 @@
-Confirm i2c connection and readings back from all chips.  
-More rigorous testing would require manual intervention to move in various directions.
