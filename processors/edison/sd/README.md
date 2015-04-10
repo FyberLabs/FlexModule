@@ -18,3 +18,4 @@ DF40HC(3.0)-70DS-0.4V(51) (castellation clearance again)
 5040771891 + TXS0206-29
 MCP2200T-I/MQ + mini USB B (no castellations and may need more height clearance)
 
+4x4 QFNs instead fot TXS0108E and TXS02612 mux (not TXS0206-29)
