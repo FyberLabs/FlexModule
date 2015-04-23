@@ -13,14 +13,13 @@ This is the only breakout of the TI DRV2605 Haptic Driver for ERM/LRA with Built
 
 This Flex Module will work with any ERM or LRA module sold by [Fyber Labs](https://www.fyberlabs.com).
 
-## [Project Blog](http://hackaday.io/project/2755-drv2605l-lra-driver-flex-module)
-This is the hardware design repository from [Fyber Labs](https://www.fyberlabs.com).  For more information on
-the ongoing development, please see the blog on hackaday.
+## [->Project Blog](http://hackaday.io/project/2755-drv2605l-lra-driver-flex-module)
+This is the hardware design repository from [Fyber Labs](https://www.fyberlabs.com).  Click on the link for 
+more information on the ongoing development.
 
-## [Flex Modules Blog](https://hackaday.io/project/2236-flex-modules)
-This project is part of the Flex Modules being developed
-for general wearable designs.  For more information about Flex Modules and demo projects utilizing
-Flex Modules like this, please see the hackaday blog.
+## [->Flex Modules Blog](https://hackaday.io/project/2236-flex-modules)
+This project is part of the Flex Modules being developed for general wearable designs.  CLick on the 
+link for more information about Flex Modules and demo projects utilizing Flex Modules like this.
 
 ## Layout:
 ![Layout](documents/com.jpg)
