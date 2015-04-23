@@ -3,7 +3,7 @@
 
 ![3D model](pictures/LRAHaptic.png)
 
-[**Buy this Flex Module now!**](https://www.tindie.com/products/Fyberlabs/lra-haptic-flex-module/)
+### [**Buy this Flex Module now!**](https://www.tindie.com/products/Fyberlabs/lra-haptic-flex-module/)
 
 A Flex Module is a tiny breakout board that is both breadboard-able and designed to solder/epoxy to flexible PCB for wearable prototyping.  The LRA Haptic Flex Module is based on the [**DRV2605L**](http://www.ti.com/product/DRV2605L) Haptic Driver.  The design is tiny to fit on the opposite side of a flexible circuit board from the ERM/LRA vibrator with a neoprene pad dampener.  The allows for maximum flexibility of the circuit.  It could also be attached directly to the motor, though durability would be limited.
 
@@ -20,16 +20,16 @@ This project is part of the Flex Modules being developed
 for general wearable designs.  For more information about Flex Modules and demo projects utilizing
 Flex Modules like this, please see [the hackaday page](https://hackaday.io/project/2236-flex-modules).
 
-Layout:
+## Layout:
 ![Layout](documents/com.jpg)
 
-Bill Of Materials:
+## Bill Of Materials:
 ![BOM](documents/BOM.jpg)
 
-Schematic:
+## Schematic:
 ![Schematic](documents/schematic.jpg)
 
-**Software available:**
+## **Software available:**
 
 - [Adafruit Arduino compatible](https://github.com/adafruit/Adafruit_DRV2605_Library)
 - [Precision Microdrives Arduino compatible](http://www.precisionmicrodrives.com/haptics-haptic-feedback-vibration-alerting/haptic-feedback-evaluation-kit/code-and-arduino-sketches)
