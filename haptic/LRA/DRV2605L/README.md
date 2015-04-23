@@ -3,13 +3,13 @@
 
 ![3D model](pictures/LRAHaptic.png)
 
-[Order this Flex Module now.](https://www.tindie.com/products/Fyberlabs/lra-haptic-flex-module/)
+[**Buy this Flex Module now!**](https://www.tindie.com/products/Fyberlabs/lra-haptic-flex-module/)
 
-This is a tiny breakout board updated for the DRV2605L Haptic Driver. It is castellated so that it may be utilized as a module on another circuit board or pins added for breadboard use. The design is tiny to fit on the opposite side of a flexible circuit board from the ERM/LRA vibrator with a neoprene pad dampener. The allows for maximum flexibility of the circuit. It could also be attached directly to the motor, though durability would be limited. (Vibration motor not included by default.)
+A Flex Module is a tiny breakout board that is both breadboard-able and designed to solder/epoxy to flexible PCB for wearable prototyping.  The LRA Haptic Flex Module is based on the [**DRV2605L**](http://www.ti.com/product/DRV2605L) Haptic Driver.  The design is tiny to fit on the opposite side of a flexible circuit board from the ERM/LRA vibrator with a neoprene pad dampener.  The allows for maximum flexibility of the circuit.  It could also be attached directly to the motor, though durability would be limited.
 
 The EN pin is tied to VDD so that only 8 pins are exposed. It fits perfectly on the back of a coin ERM or LRA motor.
 
-This is the only breakout of the TI DRV2605 Haptic Driver for ERM/LRA with Built-In Library and Smart Loop Architecture available on the market with both PWM and analog audio input.
+This is the only breakout of the TI DRV2605 Haptic Driver for ERM/LRA with Built-In Library and Smart Loop Architecture available on the market with separate PWM and analog audio input.
 
 This Flex Module will work with any ERM or LRA module sold by [Fyber Labs](https://www.fyberlabs.com).
 
@@ -24,7 +24,7 @@ Layout:
 ![Layout](documents/com.jpg)
 
 Bill Of Materials:
-![BOM](documents/bom.jpg)
+![BOM](documents/BOM.jpg)
 
 Schematic:
 ![Schematic](documents/schematic.jpg)
