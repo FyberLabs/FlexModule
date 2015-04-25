@@ -49,6 +49,7 @@ uint8_t FyberLabs_PCA9548::setSolderBridge(uint8)t address) {
   return _i2c_address;
 }
 
+//read/write structure borrowed from Adafruit
 uint8_t FyberLabs_PCA9548::read8(uint8_t address) {
   uint8_t ret;
 

@@ -48,7 +48,7 @@ class Fyberlabs_PCA9548 {
 
   private:
     uint8_t read8(uint8_t address);
-    void write8(uint8_t address, uint8_t data)
+    void write8(uint8_t address, uint8_t data);
 
     uint8_t _i2c_address;
 };
