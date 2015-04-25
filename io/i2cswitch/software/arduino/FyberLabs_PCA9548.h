@@ -42,9 +42,9 @@ class Fyberlabs_PCA9548 {
   public:
     Fyberlabs_PCA9548();
     boolean begin(uint8_t address = PCA9548_I2CADDR);
-    unint8_t readSwitchChannel(void);
+    uint8_t readSwitchChannel(void);
     void writeSwitchChannel(uint8_t channel);
-    void setSolderBridge(uint8_t address);
+    unit8_t setSolderBridge(uint8_t address);
 
   private:
     uint8_t read8(uint8_t address);
