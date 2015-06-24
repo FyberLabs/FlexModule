@@ -1,0 +1,12 @@
+G04 DipTrace 2.4.0.2*
+%IN64xAPA102Crigid.gbo*%
+%MOMM*%
+%FSLAX53Y53*%
+G04*
+G71*
+G90*
+G75*
+G01*
+%LNBotSilk*%
+%LPD*%
+M02*
