@@ -1,29 +1,29 @@
-#,RefDes,Value,Name,Part,Quantity
-1,A0,,LargeSolderBridge,Part 1,1
-2,A1,,LargeSolderBridge,Part 1,1
-3,C1,22uF (bulk),CAP_0603,GRM188R60J226MEA0J,1
-4,C2,330pF 10% 50V X7R,CAP_0402,CL05B331KB5NNNC,1
-5,C3,3300pF 250V,CAP_0805,GRM21AR72E332KW01D,1
-6,C4,0.1uF,CAP_0402,GRM155R61A104KA01J,1
-7,C5,0.01uF,CAP_0402,GRM155R71C103KA01D,1
-8,D1,200V 50ns,BAV21WS,Part 1,1
-9,J1,,2x2T/2.54,Part 1,1
-10,J2,,2x1T/2.54,Part 1,1
-11,J3,,2x2T/2.54,Part 1,1
-12,J5,,2x1T/2.54,Part 1,1
-13,J6,,2x1T/2.54,Part 1,1
-14,J7,,2x1T/2.54,Part 1,1
-15,J8,,2x1T/2.54,Part 1,1
-16,J9,,2x1T/2.54,Part 1,1
-17,J10,,2x1T/2.54,Part 1,1
-18,J11,,2x1T/2.54,Part 1,1
-19,J12,,2x1T/2.54,Part 1,1
-20,L1,,GA3250D-BL,Part 1,1
-21,R1,20k,RES_0402,Part 1,1
-22,R2,2.2k,EXB(2/U)4(A/V),Part 1,1
-23,R3,10k,EXB(2/U)4(A/V),Part 1,1
-24,R4,33k,RES_0402,Part 1,1
-25,U1,,MAX14521E,Part 1,1
-26,U2,,Fyberstamp,Part 1,1
-27,U3,,Fyberstamp,Part 1,1
-,,,,,27
+"#","RefDes","Value","Part"
+"1","A0","","Part 1"
+"2","A1","","Part 1"
+"3","C1","22uF (bulk)","CL10A226MP8NUNE"
+"4","C2","470pF 10% 50V X7R","CL05B471KB5NNNC"
+"5","C3","3300pF 250V","GRM21AR72E332KW01D"
+"6","C4","0.1uF","CL05B104KO5NNNC"
+"7","C5","0.01uF","CL05B103KA5NNNC"
+"8","D1","200V 50ns","BAV21WS-7-F"
+"9","i2cR","","Part 1"
+"10","J1","","Part 1"
+"11","J2","","Part 1"
+"12","J3","","Part 1"
+"13","J5","","Part 1"
+"14","J6","","Part 1"
+"15","J7","","Part 1"
+"16","J8","","Part 1"
+"17","J9","","Part 1"
+"18","J10","","Part 1"
+"19","J11","","Part 1"
+"20","J12","","Part 1"
+"21","L1","","GA3250-BL_"
+"22","R1","20","ERJ-2RKF20R0X"
+"23","R2","4.7k","EXB-24V472JX"
+"24","R3","10k","EXB-24V103JX"
+"25","R4","33k","ERJ-2GEJ333X"
+"26","U1","","MAX14521EETG+"
+"27","U2","","Part 1"
+"28","U3","","Part 1"
