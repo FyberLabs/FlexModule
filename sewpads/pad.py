@@ -7,9 +7,10 @@ from pylab import *
 #equalspace determines interior row spacing from equidistant from outer row pads
 #or spacing as a simple distance from radius
 #changing sizing will mess with the marker size sadly (wtf)...
+radiusmin = 550
 equalspace = 1
 spacing = 100
-pads = 30
+pads = 10
 pad_size = 200
 
 #adjust for marker/pad size
@@ -28,6 +29,9 @@ circ1 = (spacing)*row1
 #radius = circ1/(2.0*math.pi)
 #make radius by pad spacing calc, not arc division
 radius = math.sqrt(math.pow(spacing, 2.0)/((1-math.cos(space))*2))
+
+if radius < radiusmin:
+  radius = radiusmin
 
 #solve for interior pad based on half space in radius and space deep
 if equalspace:
@@ -52,7 +56,7 @@ for x in range(0, row1):
   plot(a,b, 'bo', markersize=pad_size/6)
   #simple rads to deg converter
   angle = (57.2957795*x*space)
-  print "Pad %d: %f, %f, %f" % (pad, a,b, angle)
+  print "Pad %d: %.3f, %.3f, %.1f" % (pad, a,b, angle)
 
   if pad == pads:
     continue
@@ -63,7 +67,7 @@ for x in range(0, row1):
     b = radius2*math.sin(x*space+(space/2.0))
     plot(a,b, 'bo', markersize=pad_size/6)
     angle = (57.2957795*(x*space+(space/2.0)))
-    print "Pad %d: %f, %f, %f" % (pad, a,b, angle)
+    print "Pad %d: %.3f, %.3f, %.1f" % (pad, a,b, angle)
     pad = pad + 1
 
 show()
