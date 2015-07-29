@@ -72,10 +72,10 @@ private:
 	int calculatePWR	        ( uint8_t waveform, int t );
 };
 
-static uint8_t __attribute__ ((progmem)) halfsineTable[] ={0,16,31,45,59,71,81,89,95,99,100};  //full sine wave 20
+const static uint8_t __attribute__ ((progmem)) halfsineTable[] ={0,16,31,45,59,71,81,89,95,99,100};  //full sine wave 20
 
 // The motor table
-static MotorInfo __attribute__ ((progmem)) motorTable[ NUM_MOTORS ] ={
+const static MotorInfo __attribute__ ((progmem)) motorTable[ NUM_MOTORS ] ={
 	{ 0,	false,	56,	66,	87,	"305-000" },	// M0 - ERM 305-000, min 1.1V, rated 1.3V, max 1.7V
 	{ 1,	false,	51,	153,	184,	"306-109" },	// M1 - ERM 306-109, min 1.0V rated 3.0V max 3.6V
 	{ 2,	false,	77,	230,	255,	"308-102" },	// M2 - ERM 308-102, min 1.5V, rated 4.5V, max 5.5V

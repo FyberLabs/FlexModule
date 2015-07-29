@@ -1,6 +1,8 @@
 #include <Wire.h>
 #include <defs.h>
 #include <types.h>
+#include <EEPROM.h>
+#include <SPI.h>
 
 // This Software demo for the Precision Microdrives Haptic Shield is provided
 // under the MIT License
@@ -67,7 +69,9 @@ void loop()
 	if( condition )
 	{
 		// Do an effect
-		motor.playFullHaptic( 1, 53 );
+	//	motor.playFullHaptic( 1, 53 );
+                motor.playVibAlert(1, );
+                
 	}
 }
 
@@ -85,6 +89,14 @@ void setupPins()
 
 	pinMode( MOTOR_PIN_0,	OUTPUT );	// Motor select 1
 	pinMode( MOTOR_PIN_1,	OUTPUT );	// Motor select 2
+
+  //PWM_OUT is 9, but may not be right in its setup
+  pinMode(3, OUTPUT);
+  TCCR2A = _BV(COM2A1) | _BV(COM2B1) | _BV(WGM21) | _BV(WGM20);
+  TCCR2B = _BV(CS00);
+
+  //0-255 %duty
+  OCR2A = 180;
 }	// setupPins
 
 
