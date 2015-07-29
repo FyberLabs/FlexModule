@@ -1,1 +1,0 @@
-Swing a 3.3v 4 channel digipot centered around 100kO and receive correct voltage on ADCs.
