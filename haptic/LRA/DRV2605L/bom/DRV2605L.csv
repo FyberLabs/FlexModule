@@ -1,5 +1,5 @@
 "#","RefDes","Value","Part"
-"1","C1","10uF","CL10A106MP8NNNC"
+"1","C1","0.1uF","CL05B104KO5NNNC"
 "2","C2","1.0uF","CL14A105MP5NANC"
 "3","DRVIO","","Part 1"
 "4","I2C","","Part 1"
