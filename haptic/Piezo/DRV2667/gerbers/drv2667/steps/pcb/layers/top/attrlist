@@ -1,0 +1,13 @@
+.et_adjacency=20.0
+.copper_weight=1.0
+.cu_base=no
+.inp_file=
+.layer_dielectric=0.001
+.lpol_done=no
+.out_angle=0.0
+.out_comp=0.0
+.out_mirror=no
+.out_polarity=positive
+.out_x_scale=1.0
+.out_y_scale=1.0
+

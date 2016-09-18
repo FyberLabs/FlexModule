@@ -1,0 +1,11 @@
+RefDes,Name,X (mil),Y (mil),Side,Rotate,Value
+C1,CAP_0402,152.7,273.9,Top,0,0.1uF
+DRVIO,2x2T/2.54,350,200,Top,90,
+I2C,2x2T/2.54rev,200,50,Top,180,
+Mout,2x2T/2.54rev,200,350,Top,0,
+Power,2x2T/2.54rev,50,200,Top,90,
+U1,DRV2605L short,259,200,Top,0,
+U2,Fyberstamp,312.3,65.3,Bottom,0,
+R1,EXB(2/U)4(A/V),173,118,Top,90,4.7k
+C2,CKCM25,173,200.8,Top,90,1.0uF
+i2cR,Double LargeSolderBridge,116.6,180.8,Top,180,
