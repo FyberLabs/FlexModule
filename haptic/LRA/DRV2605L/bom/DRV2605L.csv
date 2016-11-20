@@ -1,11 +1,5 @@
-"#","RefDes","Value","Part"
-"1","C1","0.1uF","CL05B104KO5NNNC"
-"2","C2","1.0uF","CL14A105MP5NANC"
-"3","DRVIO","","Part 1"
-"4","I2C","","Part 1"
-"5","i2cR","","Part 1"
-"6","Mout","","Part 1"
-"7","Power","","Part 1"
-"8","R1","4.7k","EXB-24V472JX"
-"9","U1","","DRV2605LDGST"
-"10","U2","","Part 1"
+#,RefDes,Value,Part
+1,C1,0.1uF,CL05B104KO5NNNC
+2,C2,1.0uF,CL14A105MP5NANC
+3,R1,4.7k,EXB-24V472JX
+4,U1,,DRV2605LDGST

@@ -1,0 +1,5 @@
+RefDes,X-Loc,Y-Loc,Rotate,Side,Type,X-Size,Y-Size,Value,Footprint,Name,MPN
+C1,192.7,313.9,0,Top,1,,,0.1uF,402,CAP_0402,
+C2,213,240.8,90,Top,1,,,1.0uF,504,CKCM25,
+R1,213,158,90,Top,1,,,4.7k,805,EXB(2/U)4(A/V),
+U1,299,240,0,Top,1,,,,TSSOP-10,DRV2605L short,
