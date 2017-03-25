@@ -6,3 +6,4 @@ Archive.zip
 *.raw
 *.log
 *.*bak
+.DS_Store
